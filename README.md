@@ -40,3 +40,7 @@ This method triggers PatchGuard. Thus, all operations must be performed and reve
 
 ### Lastly
 The provided exploit and details may vary significantly between different computers. For instance, on my machine, the NT kernel loads at physical address `0x100400`, but this will likely differ on other systems. Please refer to `explain` for further details.
+
+---
+
+![pwn.png](assets/pwn.png)
